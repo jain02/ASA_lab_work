@@ -1,0 +1,4 @@
+mean : Calculates the average mean of a set of numbers.
+meadian(value) : Displays the median value of a range
+range(value) : Finds the range of values within a variable.
+mode(value) : Displays the mode of a range.
